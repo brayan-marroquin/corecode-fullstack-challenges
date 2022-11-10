@@ -15,3 +15,6 @@
     1. [Is Palindrome?](src/assignments/week2/Monday/IsPalindrome.js)
   - Tuesday : 
     1. [Well Of Ideas](src/assignments/week2/Tuesday/WellOfIdeas.js)
+  - Wednesday : 
+    1. [React Manage Events](src/assignments/week2/Wednesday/ReactManageEvents.js)
+   
