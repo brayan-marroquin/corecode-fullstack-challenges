@@ -10,3 +10,7 @@
     1. [Smallest Integer](src/assignments/week1/Wednesday/SmallestIntegerInArray.js)  
   - Thursday: 
     1. [Odd Or Even](src/assignments/week1/Thursday/OddOrEven.js)
+- Week 2 - React: 
+  - Monday : 
+    1. [Is Palindrome?](src/assignments/week2/Monday/IsPalindrome.js)
+  - Tuesday : 
