@@ -16,5 +16,8 @@
   - Tuesday : 
     1. [Well Of Ideas](src/assignments/week2/Tuesday/WellOfIdeas.js)
   - Wednesday : 
-    1. [React Manage Events](src/assignments/week2/Wednesday/ReactManageEvents.js)
-   
+    1. [React Manage Events - class component](src/assignments/week2/Wednesday/ReactManageEvents.jsx)
+    2. [React Manage Events - functional component](src/assignments/week2/Wednesday/ReactManageEvents-FunctionalComp.jsx)
+  - Thursday : 
+    1. [React Santa Wish List - class component](src/assignments/week2/Thursday/ReactSantaWishList.jsx) 
+    2. [React Santa Wish List - functional component](src/assignments/week2/Thursday/ReactSantaWishList-FunctionalComp.jsx)  
