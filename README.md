@@ -24,3 +24,4 @@
 - Week 3 - React: 
   - Monday : 
     1. [Build Search Filter In React](src/assignments/week3/Monday/BuildSearchFilterReact.jsx)
+    2. [Fetch Random User Data](src/assignments/week3/Tuesday/FetchRandomUserData.jsx)
