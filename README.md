@@ -20,4 +20,7 @@
     2. [React Manage Events - functional component](src/assignments/week2/Wednesday/ReactManageEvents-FunctionalComp.jsx)
   - Thursday : 
     1. [React Santa Wish List - class component](src/assignments/week2/Thursday/ReactSantaWishList.jsx) 
-    2. [React Santa Wish List - functional component](src/assignments/week2/Thursday/ReactSantaWishList-FunctionalComp.jsx)  
+    2. [React Santa Wish List - functional component](src/assignments/week2/Thursday/ReactSantaWishList-FunctionalComp.jsx)
+- Week 3 - React: 
+  - Monday : 
+    1. [Build Search Filter In React](src/assignments/week3/Monday/BuildSearchFilterReact.jsx)
